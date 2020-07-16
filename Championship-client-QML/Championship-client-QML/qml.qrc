@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/views/load.qml</file>
+        <file>qml/delegates/ContestItem.qml</file>
+        <file>qml/styles/ImageNameText.qml</file>
+        <file>qml/styles/ImageDescriptionText.qml</file>
+        <file>qml/views/countMember.qml</file>
+        <file>qml/delegates/CountMemberItem.qml</file>
+        <file>qml/highlighters/HighlightCountMemberItem.qml</file>
+        <file>qml/views/PlayoffView.qml</file>
+        <file>qml/views/RatingView.qml</file>
+        <file>qml/delegates/RatingItem.qml</file>
+    </qresource>
+</RCC>
